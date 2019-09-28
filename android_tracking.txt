@@ -9,7 +9,7 @@
 graph.facebook.com
 a-graph.facebook.com
 graph.instagram.com
-mqtt-mini.facebook.com
+edge-mqtt.facebook.com
 
 # Crashlytics
 e.crashlytics.com
