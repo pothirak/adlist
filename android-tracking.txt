@@ -12,7 +12,6 @@ a-graph.facebook.com
 graph.instagram.com
 b-api.facebook.com
 edge-mqtt.facebook.com
-mqtt-mini.facebook.com
 
 # Crashlytics
 e.crashlytics.com
