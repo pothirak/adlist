@@ -1,3 +1,5 @@
+go.ecotrackings.com
+
 clients2.google.com
 s.youtube.com
 video-stats.l.google.com
