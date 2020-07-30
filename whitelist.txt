@@ -1,5 +1,4 @@
-cdn.ap.bittorrent.com
-go.ecotrackings.com
+clients4.google.com
 clients2.google.com
 s.youtube.com
 video-stats.l.google.com
@@ -59,7 +58,6 @@ gsp1.apple.com
 www.apple.com
 www.appleiphonecell.com
 api2.branch.io
-truewallet
 sdk.iad-03.braze.com
 app.appsflyer.com
 tracking.epicgames.com
@@ -84,3 +82,9 @@ prf.hn
 v10.events.data.microsoft.com
 self.events.data.microsoft.com
 fp.msedge.net
+go.ecotrackings.com
+cdn.ap.bittorrent.com
+appboy-images.com
+userlocation.googleapis.com
+shopee.prf.hn
+app.adjust.com
