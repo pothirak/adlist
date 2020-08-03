@@ -11,6 +11,8 @@ beacons5.gvt2.com
 beacons5.gvt3.com
 beacons6.gvt2.com
 beacons6.gvt3.com
+view.webplexmedia.de
+b6.d99sure.xyz
 d36zfztxfflmqo.cloudfront.net
 www.smoothsearch.online
 smoothsearch.online
