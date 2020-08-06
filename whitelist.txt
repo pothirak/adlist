@@ -88,3 +88,6 @@ appboy-images.com
 userlocation.googleapis.com
 shopee.prf.hn
 app.adjust.com
+www.siamzone.com
+m1.nsimg.net
+m2.nsimg.net
