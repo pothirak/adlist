@@ -2,6 +2,14 @@
 ridferbad.com
 eyefuneve.com
 
+#potplayer
+p1-play.edge4k.com
+p2-play.edge4k.com
+p1-play.kgslb.com
+kyson.ad.daum.net
+display.ad.daum.net
+analytics.ad.daum.net
+
 agavanilliteom.com
 clearagegun12.live
 p.1ts16.top
