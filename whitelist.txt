@@ -96,3 +96,4 @@ m1.nsimg.net
 m2.nsimg.net
 s.click.aliexpress.com
 www.google-analytics.com
+pingjs.qq.com
