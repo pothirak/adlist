@@ -10,6 +10,7 @@ kyson.ad.daum.net
 display.ad.daum.net
 analytics.ad.daum.net
 
+googleads.g.doubleclick.com
 oxygenpurpleairtight.com
 armiesgiddinesscanes.com
 effrontferty.top
@@ -78,7 +79,7 @@ vimmenced.club
 ttoc8ok.com
 www.thaibetsite.com
 www.pcmclk.com
-go.ecotrackings.com
+#go.ecotrackings.com
 ilkmawgod.site
 s.optnx.com
 oloxtraffic.net
