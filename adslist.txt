@@ -10,6 +10,11 @@ kyson.ad.daum.net
 display.ad.daum.net
 analytics.ad.daum.net
 
+ade.googlesyndication.com
+buttons.googlesyndication.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+video-ad-stats.googlesyndication.com
 ce973a68f30a68e6bc6f5f29c37bb2f9.safeframe.googlesyndication.com
 googleads.g.doubleclick.com
 oxygenpurpleairtight.com
