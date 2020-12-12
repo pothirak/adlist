@@ -10,6 +10,7 @@ kyson.ad.daum.net
 display.ad.daum.net
 analytics.ad.daum.net
 
+describeasksubject-2.live
 suddendictionaryother4.live
 oxygenpurpleairtight.com
 armiesgiddinesscanes.com
