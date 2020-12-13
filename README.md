@@ -1,7 +1,7 @@
 This is my ad list. To help make advertising less
 
 
-I work with the list below.
+I use with the list below.
 
 * https://mirror1.malwaredomains.com/files/justdomains
 * https://badmojr.github.io/1Hosts/Lite/domains.txt
