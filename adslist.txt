@@ -13,6 +13,7 @@ kyson.ad.daum.net
 display.ad.daum.net
 analytics.ad.daum.net
 
+moststraightmoment-8.live
 weaveradrenaline.com
 describeasksubject-2.live
 suddendictionaryother4.live
