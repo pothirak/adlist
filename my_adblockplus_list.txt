@@ -79,3 +79,5 @@ joox.com##.jsx-1197871118.mainButton.mainLayoutSize
 037hdmovie.com##div[style="display:inline-block; width:1000px; text-align:center;"]
 ||037hdmovie.com/Banner/ezgif-1-7e6ce9fb3881.gif
 ||037hdmovie.com/Banner/ezgif-1-9f1e9d314064.gif
+037hdmovie.com##div[style="text-align: center"]
+||037hdmovie.com/Banner/ezgif-1-61f5c6d7ba32.png
