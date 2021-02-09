@@ -1,4 +1,4 @@
-#yeelight
+#xiaomi
 sg.ots.io.mi.com
 
 #ewelink
