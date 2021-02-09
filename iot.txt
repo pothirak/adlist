@@ -1,0 +1,14 @@
+#yeelight
+sg.ots.io.mi.com
+
+#ewelink
+as-disp.coolkit.cc
+
+#broadlink
+10141tcp.broadlink.com.cn
+10141backup.broadlink.com.cn
+10141main.broadlink.com.cn
+
+#tuya
+m2.tuyaeu.com
+a3.tuyaeu.com
