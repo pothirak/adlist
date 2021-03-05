@@ -13,6 +13,7 @@ kyson.ad.daum.net
 display.ad.daum.net
 analytics.ad.daum.net
 
+savestar714notice.live
 free-best-dev-privacy.club
 thefuturepubs.com
 wirebasicexcite-2.live
