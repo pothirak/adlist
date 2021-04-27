@@ -4,6 +4,9 @@
 ridferbad.com
 eyefuneve.com
 
+#trueid
+broadcast.promethean.tv
+
 #potplayer
 p1-play.edge4k.com
 p2-play.edge4k.com
