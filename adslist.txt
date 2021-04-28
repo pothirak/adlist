@@ -15,6 +15,7 @@ kyson.ad.daum.net
 display.ad.daum.net
 analytics.ad.daum.net
 
+(\.|^)bmcdn1\.com$
 freshsand481size.live
 savestar714notice.live
 free-best-dev-privacy.club
