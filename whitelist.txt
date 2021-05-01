@@ -12,6 +12,6 @@ connect.facebook.net
 telemetry.malwarebytes.com
 dpm.demdex.net
 www.googleadservices.com
-siamzone.com
+(\.|^)siamzone\.com$
 sp-766ec786.honzik.avcdn.net
 geller-pa.googleapis.com
