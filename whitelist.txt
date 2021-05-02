@@ -3,8 +3,6 @@ cm.everesttech.net
 firebase-settings.crashlytics.com
 crashlyticsreports-pa.googleapis.com
 (\.|^)appsflyer\.com$
-(\.|^)miui\.com$
-(\.|^)xiaomi\.com$
 (\.|^)ipify\.org$
 ssl.google-analytics.com
 www.google-analytics.com
