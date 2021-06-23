@@ -13,3 +13,16 @@ www.googleadservices.com
 (\.|^)siamzone\.com$
 sp-766ec786.honzik.avcdn.net
 geller-pa.googleapis.com
+www.googletagmanager.com
+(\.|^)market\.xiaomi\.com$
+ad.doubleclick.net
+api.sec.intl.miui.com
+flash.sec.intl.miui.com
+app-measurement.com
+www.googletagservices.com
+mobile-collector.newrelic.com
+data.sec.intl.miui.com
+sessions.bugsnag.com
+static.cloudflareinsights.com
+browser.events.data.microsoft.com
+web.vortex.data.microsoft.com
